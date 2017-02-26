@@ -2,7 +2,7 @@
   "name": "jsmix",
   "version": "0.1.0",
   "description": "",
-  "main": "cli.js",
+  "main": "lib/jsmix.js",
   "author": "Taryn Hill",
   "license": "MIT",
   "dependencies": {
